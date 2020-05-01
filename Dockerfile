@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.3
+FROM registry.access.redhat.com/ubi8/ubi:8.0
 
 RUN apt-get update
 
